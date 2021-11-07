@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+#logo {
+    width: 1000px;
+    height: 563px;
+}
+
+img {
+    width: 350px;
+}
+
+#mycarousel {
+    background-color: thistle;
+}
+
+.Princess {
+    display: inline;
+}
+
+#mycarousel img {
+    height: 430px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: black;
+}
